@@ -102,7 +102,7 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print '\033[0;93mAUTHOR   : 𝐒𝐇4𝐑1𝐅
+    print '\033[0;93mAUTHOR   : 𝐒𝐇4𝐑1𝐅'
     print '\033[0;94mFACEBOOK : 𝐒𝐇𝐀𝐑𝐈𝐅 𝐈𝐒𝐋𝐀𝐌'
     print '\033[0;96mINSTA   : 𝐒𝐡𝐚𝐫𝐢𝐟__official_'
     print ''
